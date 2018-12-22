@@ -36,16 +36,16 @@ As a group we decided to continue from our project 2 application and introduce n
 
 
 ## TECH 
-- Node.js
-- React 
-- Heroku
-- Express 
-- MongoDB 
-- Bootstrap / React Bootstrap
-- Auth0
-- Figma
-- GitHub Project (project manager) 
-- Google Maps, Google Calander, and Amazon search APIs 
+- Node.js,
+- React, 
+- Heroku,
+- Express, 
+- MongoDB,
+- Bootstrap / React Bootstrap,
+- Auth0,
+- Figma,
+- GitHub Project (project manager), 
+- Google Maps, Google Calander, and Amazon search APIs.
 
 ## WIREFRAME
 ![login](screenshots/login.png),
