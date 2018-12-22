@@ -1,3 +1,34 @@
+# ShinDig 2.0
+
+## MVP 
+
+## GOALS
+-google maps api 
+-authentication 
+
+
+## TECH 
+
+## WIREFRAME
+
+## LEARNING OBJ. PER TEAM MEMBER
+
+## HEROKU PIPELINE 
+
+## GIT FLOW 
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
