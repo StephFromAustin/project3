@@ -82,7 +82,7 @@ As a group we decided to continue from our project 2 application and introduce n
 
 
 ## GITHUB Project
-- As a ground we decided to use Github Project as our project management system. We have used this system in the past however we did not utilize all of the possible tools. 
+- As a group we decided to use Github Project as our project management system. We have used this system in the past however we did not utilize all of the possible tools. 
 
 
 
