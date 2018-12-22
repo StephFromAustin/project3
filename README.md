@@ -57,19 +57,19 @@ As a group we decided to continue from our project 2 application and introduce n
 ## LEARNING OBJ. PER TEAM MEMBER
 ### Amanda Padilla (Full Stack Developer)
 ![amanda photo](screenshots/amanda.png)
-Personal Goal: Be able to understand and deploy react successfully and master authenication. "Git Good"
+- Personal Goal: Be able to understand and deploy react successfully and master authenication. "Git Good"
 
 ### Javier Vega (Full Stack Developer)
 ![javier photo](screenshots/javier.png)
-Personal Goal: Understanding components and multipage applications in React. 
+- Personal Goal: Understanding components and multipage applications in React. 
 
 ### Michael Wenhold (Full Stack Developer)
 ![michael photo](screenshots/michael.png)
-Personal Goal: Master Authenication, API connections, and React technologies. 
+- Personal Goal: Master Authenication, API connections, and React technologies. 
 
 ### Kang Park (Full Stack Developer)
 ![kang photo](screenshots/kang.png)
-Personal Goal: Master React deployment, MongoDB, API connections, and continued study Javascript in general. 
+- Personal Goal: Master React deployment, MongoDB, API connections, and continued study Javascript in general. 
 
 ### Stephanie Gonzales (Full Stack Developer)
 ![steph photo](screenshots/steph.png)
