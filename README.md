@@ -1,21 +1,88 @@
-# ShinDig 2.0
+![LOGO](screenshots/LOGO.png)
 
-## MVP 
+## Why  Shindig: 
+The goal of ShinDig is to empower individuals to create, plan, and execute any event type, at any size. ShinDig will become the only applicaiton needed for both host and guest to assign tasks, save event infomraiton, and invite friends and family. 
+
+## MVP:
+#### PHASE ONE:
+- Create viable react app and github repo that has a working Heroku Pipeline,
+- Create wireframe and application models using Figma, 
+- Create and organize Github Project in project repository. 
+
+#### PHASE TWO: 
+- Create authentication page using Auth0 technology, 
+- Connect Google Maps, Google Calander, and Amazon APIs, 
+- Integrate React technologies with current project2 code,
+- Working integrated messenging service. 
+
+#### PHASE THREE: 
+- Functionality testing, 
+- Polishing UI, 
+- Checking validations, debugging, and ensuring code is Restful. 
+
+#### PHASE FOUR: 
+- Presentation preparation, 
+- Update and Deploy Readme.md 
 
 ## GOALS
--google maps api 
--authentication 
+As a group we decided to continue from our project 2 application and introduce new technologies and libraries. Our project 2 app did not meet MVP and to correct that our goals are as follows: 
+- create and follow a viable github project page. Use colorcoding and card labeling to keep track of MVP, wish, and future development items. 
+- create seperate heroku pipelines to individual github repos so that each person can test without having to push to master branch. 
+- Working builtin messenger,
+- Operational react deployment, 
+- Complete project 2 so it is a viable product by: 
+    - have google and amazon api working, 
+    - authentication page (go with Auth0 instrad of firebase technologies),
 
 
 ## TECH 
+- Node.js
+- React 
+- Heroku
+- Express 
+- MongoDB 
+- Bootstrap / React Bootstrap
+- Auth0
+- Figma
+- GitHub Project (project manager) 
+- Google Maps, Google Calander, and Amazon search APIs 
 
 ## WIREFRAME
+![login](screenshots/login.png),
+![main](screenshots/main.png),
+![create event](screenshots/createEvent.png),
+![event details](screenshots/eventDetails.png),
+![my events](screenshots/myEvents.png)
 
 ## LEARNING OBJ. PER TEAM MEMBER
+### Amanda Padilla (Full Stack Developer)
+![amanda photo](screenshots/amanda.png)
+Personal Goal: Be able to understand and deploy react successfully and master authenication. "Git Good"
+
+### Javier Vega (Full Stack Developer)
+![javier photo](screenshots/javier.png)
+Personal Goal: Understanding components and multipage applications in React. 
+
+### Michael Wenhold (Full Stack Developer)
+![michael photo](screenshots/michael.png)
+Personal Goal: Master Authenication, API connections, and React technologies. 
+
+### Kang Park (Full Stack Developer)
+![kang photo](screenshots/kang.png)
+Personal Goal: Master React deployment, MongoDB, API connections, and continued study Javascript in general. 
+
+### Stephanie Gonzales (Full Stack Developer)
+![steph photo](screenshots/steph.png)
+Personal Goal: Understand each file within the application and understand the connections and organization systems within React that connect front end and back end work. Improve CSS skills and MongoDB technologies. 
+
 
 ## HEROKU PIPELINE 
+- Create a master pipeline names ShinDig2_0 that has automatic deploys to the Github master branch. 
+- Create individual pipelines for connect to individual github branches within the Project3 Repo. 
 
-## GIT FLOW 
+
+## GITHUB Project
+- As a ground we decided to use Github Project as our project management system. We have used this system in the past however we did not utilize all of the possible tools. 
 
 
 
