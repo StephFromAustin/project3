@@ -73,7 +73,7 @@ Personal Goal: Master React deployment, MongoDB, API connections, and continued 
 
 ### Stephanie Gonzales (Full Stack Developer)
 ![steph photo](screenshots/steph.png)
-Personal Goal: Understand each file within the application and understand the connections and organization systems within React that connect front end and back end work. Improve CSS skills and MongoDB technologies. 
+- Personal Goal: Understand each file within the application and understand the connections and organization systems within React that connect front end and back end work. Improve CSS skills and MongoDB technologies. 
 
 
 ## HEROKU PIPELINE 
