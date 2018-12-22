@@ -54,7 +54,7 @@ As a group we decided to continue from our project 2 application and introduce n
 ![event details](screenshots/eventDetails.png),
 ![my events](screenshots/myEvents.png)
 
-## LEARNING OBJ. PER TEAM MEMBER
+## LEARNING OBJECTIVE PER TEAM MEMBER
 ### Amanda Padilla (Full Stack Developer)
 ![amanda photo](screenshots/amanda.png)
 - Personal Goal: Be able to understand and deploy react successfully and master authenication. "Git Good"
@@ -80,6 +80,7 @@ As a group we decided to continue from our project 2 application and introduce n
 - Create a master pipeline names ShinDig2_0 that has automatic deploys to the Github master branch. 
 - Create individual pipelines for connect to individual github branches within the Project3 Repo. 
 
+# this is a test 
 
 ## GITHUB Project
 - As a ground we decided to use Github Project as our project management system. We have used this system in the past however we did not utilize all of the possible tools. 
