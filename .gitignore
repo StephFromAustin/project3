@@ -5,7 +5,11 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+<<<<<<< HEAD
 #lock files
+=======
+# lock files 
+>>>>>>> d636486b2e62ed60a0b8d67442c2feb22ec98229
 *lock*
 
 # Runtime data
