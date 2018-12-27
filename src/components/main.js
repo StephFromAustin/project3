@@ -24,13 +24,13 @@ class Main extends Component {
                 <p>With ShinDig you are able to create any type of gathering.</p>
                 </div>
                 <div className="service-two">
-                <p className="service-icon"><i className="fas fa-mail"></i></p>
+                <p className="service-icon"><i class="fas fa-mail-bulk"></i></p>
                 <p className="service-title">Invite</p>
                 <p>Save the stamps, facebook events, send your invites courtesy of ShinDig.</p>
             
                 </div>
                 <div className="service-three">
-                <p className="service-icon"><i className="fas fa-mail"></i></p>
+                <p className="service-icon"><i class="far fa-calendar-check"></i></p>
                 <p className="service-title">Plan</p>
                 <p>With ShinDig, gatherings of any kind become easier, plan your event and have your guest help by providing them with Date, Time, needs for the gathering, location etc....</p>
               
