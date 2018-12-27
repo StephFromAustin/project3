@@ -19,20 +19,20 @@ class Main extends Component {
         <div>
              <div className="services">
                 <div className="service-one">
-                <p className="service-icon"><i className="far fa-calendar-alt"></i></p>
-                <p className="service-title">Planning</p>
-                <p>Mauris vitae turpis ut sem blandit consequat et at ligula. Suspendisse quam lectus, tristique dapibus sapien et, tempus suscipit nisl.</p>
+                <p className="service-icon"><i class="fas fa-glass-cheers"></i></p>
+                <p className="service-title">Create</p>
+                <p>With ShinDig you are able to create any type of gathering.</p>
                 </div>
                 <div className="service-two">
-                <p className="service-icon"><i className="fas fa-crop"></i></p>
-                <p className="service-title">Design</p>
-                <p>Nulla eu metus faucibus, vehicula tortor quis, venenatis odio. Nullam purus mauris, feugiat in odio vitae, posuere volutpat libero. Sed et convallis libero.</p>
+                <p className="service-icon"><i className="fas fa-mail"></i></p>
+                <p className="service-title">Invite</p>
+                <p>Save the stamps, facebook events, send your invites courtesy of ShinDig.</p>
             
                 </div>
                 <div className="service-three">
-                <p className="service-icon"><i className="fas fa-code"></i></p>
-                <p className="service-title">Development</p>
-                <p>Ut ornare vitae enim a rhoncus. Nullam aliquet tristique scelerisque. Sed volutpat dictum risus ac laoreet. Suspendisse id lorem in enim sollicitudin varius.</p>
+                <p className="service-icon"><i className="fas fa-mail"></i></p>
+                <p className="service-title">Plan</p>
+                <p>With ShinDig, gatherings of any kind become easier, plan your event and have your guest help by providing them with Date, Time, needs for the gathering, location etc....</p>
               
           </div>
         </div>

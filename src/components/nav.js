@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import images from '../images/letter.png'
 
 class Nav extends Component {
   render() {
@@ -10,7 +9,7 @@ class Nav extends Component {
           </ul>
           <ul>
               <li><a href="#">About</a></li>
-              <li><a href="#">Sign-Up</a></li>
+              <button><li><a href="#">Sign-Up</a></li></button>
           </ul>
       </nav>
     );
