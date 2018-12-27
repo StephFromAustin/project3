@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Form from "./form";
 
 class Main extends Component {
   render() {
@@ -60,11 +59,7 @@ class Main extends Component {
         </section>
 
 
-        <section>
-            <h2>Contact Us</h2>
-            <Form />
-          
-        </section>
+        
 
        
       </main>
