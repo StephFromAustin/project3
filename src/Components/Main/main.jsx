@@ -10,8 +10,7 @@ class Main extends Component {
             <h2>Our Mission</h2>
             <div>
              <p>The goal of ShinDig is to empower individuals to create, plan, and execute any event type, at any size. ShinDig will become the only applicaiton needed for both host and guest to assign tasks, save event infomraiton, and invite friends and family.
-
-.</p>
+</p>
             </div>
         </section>
 
