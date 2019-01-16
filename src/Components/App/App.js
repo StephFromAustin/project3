@@ -8,6 +8,7 @@ class App extends Component {
   render() {
     return (
       <div className="container">
+        <h1>Welcome to Our Page!, {this.props.name}</h1>
         <Header />
         <Main />
         <Footer />
@@ -15,5 +16,4 @@ class App extends Component {
     );
   }
 }
-
 export default App;
