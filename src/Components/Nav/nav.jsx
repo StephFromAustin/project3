@@ -9,7 +9,7 @@ class Nav extends Component {
           </ul>
           <ul>
               <li><a href="#">About</a></li>
-              <button><li><a href="#">Sign-Up</a></li></button>
+              <button><li><a href="./SignUp/">Sign-Up</a></li></button>
           </ul>
       </nav>
     );
