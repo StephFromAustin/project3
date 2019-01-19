@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Jumbotron, Image, Row, Col, Grid } from 'react-bootstrap';
-import { Card, Button,} from 'reactstrap';
-
+import { Card, Button, CardImg} from 'reactstrap';
 import './login.css';
 
 export default class User extends Component {
@@ -14,12 +13,11 @@ export default class User extends Component {
 				<Grid>
 					<Row className="show-grid">
 						<Col xs={6} md={4}>
-                        <Card body className="text-center">
-								<Image src ="assets/img/letter.png" width = "150" height ="100"></Image>
-								<Button class = "text-center">Create</Button>
+							<Card body className="text-center"> 
+                            <CardImg width="100%" src="assets/img/letter.png" alt="Card image cap" />
+								<Button class="text-center">Create</Button>
 							</Card>
 						</Col>
-						
 					</Row>
 				</Grid>
 			</header>
