@@ -13,6 +13,7 @@ export default class NavbarLogin extends Component {
 					<Modal header="Create Account" trigger={<Button className="grey">Getting Started</Button>}>
 						<Input type="email" label="Email" s={12} />
 						<Input type="password" label="password" s={12} />
+						<Button href = "/login"></Button>
 					</Modal>
 			</NavItem>
 				<NavItem href="./about">About Us</NavItem>
