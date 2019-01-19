@@ -19,19 +19,19 @@ export default class Home extends Component {
 						<Card
 							className="col s12 m4"
 							header={<CardTitle image="https://images.unsplash.com/photo-1506784983877-45594efa4cbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1648&q=80">Guests List, Invites & Registry </CardTitle>}
-							actions={[ <a href="/about">Create</a> ]}>
+							actions={[ <a href="/what">Create</a> ]}>
 							
 						</Card>{' '}
 						<Card
 							className="col s12 m4"
 							header={<CardTitle image= "https://images.unsplash.com/photo-1541701711-f5b5c81a6780?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80">RSVP's, Registry Fuffillment</CardTitle>}
-							actions={[ <a href="/about">Party</a> ]}>
+							actions={[ <a href="/what">Party</a> ]}>
 							
 						</Card>
 						<Card
 							className="col s12 m4"
 							header={<CardTitle image="https://images.unsplash.com/photo-1527689368864-3a821dbccc34?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80">I need ... </CardTitle>}
-							actions={[ <a href="/about">Search</a> ]}>
+							actions={[ <a href="/what">Search</a> ]}>
 							
 						</Card>
 				</Row>
