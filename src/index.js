@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import * as serviceWorker from './serviceWorker';
 
 let state = {};
 window.setState = (changes) => {
@@ -10,6 +9,8 @@ window.setState = (changes) => {
 
     ReactDOM.render(<App {...state}/>, document.getElementById('root'));
 }
+
+/* eslint no-restricted-globals: 0*/
 
 let initialState = {
     name: "amanda",
