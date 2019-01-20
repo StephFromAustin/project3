@@ -6,9 +6,13 @@ import Footer from "../Footer/footer";
 
 class App extends Component {
   render() {
+let loginComponent = ""
+switch(this.props.location){
+  case"":
+mainComponent = <}
+
     return (
       <div className="container">
-        <h1>Welcome to Our Page!, {this.props.name}</h1>
         <Header />
         <Main />
         <Footer />
