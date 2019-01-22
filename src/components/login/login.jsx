@@ -1,9 +1,13 @@
 import React, {Component} from "react";
+import { Jumbotron, Image, Row, Col, Grid } from 'react-bootstrap';
+import { Card, Button, CardImg} from 'reactstrap';
+import './login.css';
 
 export default class User extends Component {
 	render() {
 		return (
 			<header>
+				<h1> this will only be accessable to current users </h1>
 				<Jumbotron>
 					<Image src="assets/img/logo2.jpg" width="100%" />
 				</Jumbotron>
@@ -20,4 +24,4 @@ export default class User extends Component {
 			</header>
 		);
 	}
-}
+} 
