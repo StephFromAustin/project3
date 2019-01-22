@@ -1,7 +1,4 @@
-import React, { Component } from 'react';
-import { Jumbotron, Image, Row, Col, Grid } from 'react-bootstrap';
-import { Card, Button, CardImg} from 'reactstrap';
-import './login.css';
+import React, {Component} from "react";
 
 export default class User extends Component {
 	render() {
