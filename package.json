@@ -5,6 +5,7 @@
   "dependencies": {
     "auth0-js": "^9.9.0",
     "bootstrap": "^4.2.1",
+    "mysql": "^2.16.0",
     "node": "^11.6.0",
     "react": "^16.7.0",
     "react-bootstrap": "^0.32.4",
