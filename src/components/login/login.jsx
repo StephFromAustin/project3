@@ -1,11 +1,23 @@
 import React, {Component} from "react";
 
-export default class Login extends Component {
-    render() {
-        return(
-            <div>
-                
-            </div>
-        )
-    }
-};
+export default class User extends Component {
+	render() {
+		return (
+			<header>
+				<Jumbotron>
+					<Image src="assets/img/logo2.jpg" width="100%" />
+				</Jumbotron>
+				<Grid>
+					<Row className="show-grid">
+						<Col xs={6} md={4}>
+							<Card body className="text-center"> 
+                            <CardImg width="100%" src="assets/img/letter.png" alt="Card image cap" />
+								<Button class="text-center">Create</Button>
+							</Card>
+						</Col>
+					</Row>
+				</Grid>
+			</header>
+		);
+	}
+}
