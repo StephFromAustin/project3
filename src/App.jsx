@@ -10,13 +10,27 @@ import What from './components/what/what'
 
 class App extends Component {
   render() {
+    let homeComponent = "";
+    switch(this.props.location) {
+      case "":
+        homeComponent= Home;
+        break;
+      case "Login":
+        homeComponent= Login;
+        break;
+      default:
+        homeComponent = Home;
+
+    }
+
+
     return (
       <Router>
         <div>
           <NavbarLogin/>
-          <Route exact path ="/"component = {Home} />
+          <Route exact path ="/"component = {homeComponent} />
           <Route exact path = "/about" component = {About}/>
-          <Route exact path = "/login" component ={Login}/>
+          <Route exact path = "/login" component ={homeComponent}/>
           <Route exact path = "/what" component = {What}/>
         </div>
       </Router>
