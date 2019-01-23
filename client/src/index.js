@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 
+<<<<<<< HEAD
+ReactDOM.render(<App />, document.getElementById('root'));
+=======
 let state = {};
 window.setState = (changes) => {
     state = Object.assign({}, state, changes);
@@ -42,3 +45,4 @@ window.setState(initialState);
 // };
 
 // window.setState(initialState);
+>>>>>>> ccef203670f18287994fb1630c885eeb64635318
