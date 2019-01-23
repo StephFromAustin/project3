@@ -25,6 +25,7 @@ export default class NavbarLogin extends Component {
     							<Input s={6} label="Last Name" />
     							<Input type="password" label="password" s={12} />
     							<Input type="email" label="Email" s={12} />
+								<Button>Sign-Up</Button>
 							</Row>
 							</Modal>
 						</NavItem>

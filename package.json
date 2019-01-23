@@ -1,17 +1,25 @@
 {
-  "name": "devjapp",
+  "name": "devaapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "auth0-js": "^9.9.0",
     "bootstrap": "^4.2.1",
+    "express": "^4.16.4",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.4",
     "node": "^11.6.0",
+    "path": "^0.12.7",
     "react": "^16.7.0",
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.7.0",
     "react-materialize": "^2.6.0",
+    "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
     "react-scripts": "^2.1.3",
-    "reactstrap": "^7.1.0"
+    "reactstrap": "^7.1.0",
+    "sequelize": "^4.42.0"
   },
   "scripts": {
     "start": "react-scripts start",
