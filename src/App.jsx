@@ -5,8 +5,7 @@ import Home from './components/home/home';
 import NavbarLogin from './components/navbar/navbar';
 import About from './components/about/about';
 import Login from './components/login/login';
-import What from './components/what/what'
-
+import What from './components/what/what';
 
 class App extends Component {
   render() {
@@ -15,14 +14,14 @@ class App extends Component {
       case "":
         homeComponent= Home;
         break;
-      case "Login":
-        homeComponent= Login;
+      case "login":
+        homeComponent= Login; 
         break;
       default:
+      // will probably want to make the default page "Page Not Found" so that we know that the router is not correct.
         homeComponent = Home;
 
     }
-
 
     return (
       <Router>
@@ -30,7 +29,7 @@ class App extends Component {
           <NavbarLogin/>
           <Route exact path ="/"component = {homeComponent} />
           <Route exact path = "/about" component = {About}/>
-          <Route exact path = "/login" component ={homeComponent}/>
+          <Route exact path = "/login" component = {homeComponent}/>
           <Route exact path = "/what" component = {What}/>
         </div>
       </Router>

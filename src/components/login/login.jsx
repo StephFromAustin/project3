@@ -7,7 +7,7 @@ export default class User extends Component {
 	render() {
 		return (
 			<header>
-				<h1> this will only be accessable to current users </h1>
+				<h1> this will only be accessable to current users {this.app.props.name}</h1>
 				<Jumbotron>
 					<Image src="assets/img/logo2.jpg" width="100%" />
 				</Jumbotron>

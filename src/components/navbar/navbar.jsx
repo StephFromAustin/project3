@@ -2,9 +2,6 @@ import React, { Component } from 'react';
 import { Navbar, NavItem, Modal, Button, Input,Row} from 'react-materialize';
 import './navbar.css'
 
-
-
-
 export default class NavbarLogin extends Component {
 	render() {
 		return (
@@ -14,8 +11,8 @@ export default class NavbarLogin extends Component {
 						<Input type="email" label="Email" s={12} />
 						<Input type="password" label="password" s={12} />
 						<Row>
-						<NavItem  href ="./login">
-							<Button>Login</Button> 
+						<NavItem  href ="/login">
+							<Button onClick={this.props.auth.login}>Login</Button> 
 						</NavItem>
 						<NavItem> 
 							<Modal header="Create Account" trigger={
@@ -25,7 +22,9 @@ export default class NavbarLogin extends Component {
     							<Input s={6} label="Last Name" />
     							<Input type="password" label="password" s={12} />
     							<Input type="email" label="Email" s={12} />
-								<Button>Sign-Up</Button>
+								<NavItem href ="/login">
+									<Button>Sign-Up</Button>
+								</NavItem>
 							</Row>
 							</Modal>
 						</NavItem>
