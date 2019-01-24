@@ -25,7 +25,9 @@
   },
   "homepage": "https://github.com/Voldemort2018/project3#readme",
   "dependencies": {
+    "dotenv": "^6.2.0",
     "express": "^4.16.4",
+    "fs": "0.0.1-security",
     "if-env": "^1.0.4",
     "mongoose": "^5.4.6",
     "node": "^11.7.0",

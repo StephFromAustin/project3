@@ -1,8 +1,7 @@
-'use strict';
 // DEPENDENCIES 
-const yelp = require('yelp-fusion');
+const db  = require ("../models");
+// REQUIRED REQUESTS 
 
-// API KEY 
-const apiKey 
+// FUNCTION 
 
 
