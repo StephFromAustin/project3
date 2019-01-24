@@ -1,4 +1,4 @@
-![LOGO](screenshots/LOGO.png)
+![LOGO](/client/screenshots/LOGO.png)
 
 ## Why  Shindig: 
 The goal of ShinDig is to empower individuals to create, plan, and execute any event type, at any size. ShinDig will become the only applicaiton needed for both host and guest to assign tasks, save event infomraiton, and invite friends and family. 
@@ -48,31 +48,31 @@ As a group we decided to continue from our project 2 application and introduce n
 - Google Maps, Google Calander, and Amazon search APIs 
 
 ## WIREFRAME
-![login](screenshots/login.png),
-![main](screenshots/main.png),
-![create event](screenshots/createEvent.png),
-![event details](screenshots/eventDetails.png),
-![my events](screenshots/myEvents.png)
+![login](client/screenshots/login.png),
+![main](client/screenshots/main.png),
+![create event](client/screenshots/createEvent.png),
+![event details](client/screenshots/eventDetails.png),
+![my events](client/screenshots/myEvents.png)
 
 ## LEARNING OBJ. PER TEAM MEMBER
 ### Amanda Padilla (Full Stack Developer)
-![amanda photo](screenshots/amanda.png)
+![amanda photo](client/screenshots/amanda.png)
 - Personal Goal: Be able to understand and deploy react successfully and master authenication. "Git Good"
 
 ### Javier Vega (Full Stack Developer)
-![javier photo](screenshots/javier.png)
+![javier photo](client/screenshots/javier.png)
 - Personal Goal: Understanding components and multipage applications in React. 
 
 ### Michael Wenhold (Full Stack Developer)
-![michael photo](screenshots/michael.png)
+![michael photo](client/screenshots/michael.png)
 - Personal Goal: Master Authenication, API connections, and React technologies. 
 
 ### Kang Park (Full Stack Developer)
-![kang photo](screenshots/kang.png)
+![kang photo](client/screenshots/kang.png)
 - Personal Goal: Master React deployment, MongoDB, API connections, and continued study Javascript in general. 
 
 ### Stephanie Gonzales (Full Stack Developer)
-![steph photo](screenshots/steph.png)
+![steph photo](client/screenshots/steph.png)
 - Personal Goal: Understand each file within the application and understand the connections and organization systems within React that connect front end and back end work. Improve CSS skills and MongoDB technologies. 
 
 
