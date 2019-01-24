@@ -9,18 +9,18 @@ const PORT = process.env.PORT || 3001;
 app.use(express.urlencoded({ extended: true}));
 app.use(express.json());
 
-// SERVE UP STATIC ASSETS (HEROKU)
+// // SERVE UP STATIC ASSETS (HEROKU)
 if (process.env.NODE_ENV === "production") {
-    app.use(express.static("client/build"));
+    app.use(express.static("client/src"));
 }
 
-// ADD ROUTES (API AND VIEW) 
+// // ADD ROUTES (API AND VIEW) 
 app.use(routes);
 
 // CONNECT TO THE MONGO DB
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/reactreadinglist");
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/reactreadinglist"); 
 
 // START THE API SERVER
 app.listen(PORT, function () {
-    console.log("API server is now listening on PORT ${PORT}!");
+    console.log(`API server is now listening on PORT ${PORT}!`);
 });
