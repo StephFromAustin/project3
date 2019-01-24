@@ -1,7 +1,7 @@
-// DEPENDENCIES 
-const db  = require ("../models");
-// REQUIRED REQUESTS 
+// // DEPENDENCIES 
+// const db  = require ("../models");
+// // REQUIRED REQUESTS 
 
-// FUNCTION 
+// // FUNCTION 
 
 
