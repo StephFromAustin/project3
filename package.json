@@ -1,7 +1,7 @@
 {
   "name": "project3",
   "version": "1.0.0",
-  "description": "",
+  "description": "![LOGO](screenshots/LOGO.png)",
   "main": "index.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
@@ -10,8 +10,8 @@
     "client": "cd client && npm run start",
     "seed": "node scripts/dbcrud.js",
     "install": "cd client && npm install",
-    "build":"cd client && npm run build",
-    "heroku-postbuild":"npm run build",
+    "build": "cd client && npm run build",
+    "heroku-postbuild": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -29,5 +29,6 @@
     "if-env": "^1.0.4",
     "mongoose": "^5.4.6",
     "node": "^11.7.0"
-  }
+  },
+  "devDependencies": {}
 }
