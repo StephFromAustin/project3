@@ -1,0 +1,10 @@
+.navbar{
+    -webkit-box-shadow: 10px 20px 20px rgb(167, 166, 164);
+    -moz-box-shadow:    10px 20px 20px rgb(167, 166, 164);
+    box-shadow:          10px 20px 20px rgb(167, 166, 164);
+    z-index:999;
+    }
+    span{
+        color: rgb(15, 124, 124);
+        font-family: 'Shadows Into Light', cursive;
+    }
